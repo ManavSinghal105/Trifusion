@@ -13,7 +13,7 @@
 
 
 # import google.generativeai as genai
-# genai.configure(api_key="AIzaSyCHdUg7jXUMNxeWV-IAgm0yObajtvMe-PA")
+# genai.configure(api_key="")
 
 
 # # ---------------- CONFIG ----------------
